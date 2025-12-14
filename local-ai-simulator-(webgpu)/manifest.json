@@ -1,0 +1,20 @@
+{
+  "name": "Local AI Simulator",
+  "short_name": "AI 模拟器",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f5f5f5",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

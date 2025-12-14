@@ -1,0 +1,5 @@
+{
+  "name": "Local AI Simulator (WebGPU)",
+  "description": "A fully offline-capable chat simulator running Llama 3 locally in the browser via WebGPU.",
+  "requestFramePermissions": []
+}
